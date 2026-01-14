@@ -1,6 +1,12 @@
 // Projects data - add your projects here
 const projects = [
     {
+        title: "TheVirtualSF.com",
+        description:"TBA",
+        url:"https://TheVirtualSF.com",
+        status:"under-construction"
+    },
+    {
         title: "builderz.space",
         description: "TBA",
         url: "https://builderz.space",
