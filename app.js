@@ -2,15 +2,21 @@
 const projects = [
     {
         title: "TheVirtualSF.com",
-        description:"TBA",
-        url:"https://TheVirtualSF.com",
-        status:"under-construction"
+        description: "TBA",
+        url: "https://TheVirtualSF.com",
+        status: "under-construction"
     },
     {
         title: "builderz.space",
         description: "TBA",
         url: "https://builderz.space",
         status: "under-construction"
+    },
+
+    {
+        title: "memes.fit",
+        description: "create and share memes.",
+        url:"https://memes.fit"
     },
     {
         title: "oneDB",
@@ -43,11 +49,10 @@ function renderProjects() {
     }
     
     projectsGrid.innerHTML = projects.map(project => `
-        <div class="project-card">
+        <div class="project-card${project.status === 'under-construction' ? ' under-construction' : ''}">
             <div class="project-header">
                 <div class="project-title-group">
                     <h2>${project.title}</h2>
-                   
                 </div>
                 <div class="project-buttons">
                     ${project.url ? `<a href="${project.url}" target="_blank" rel="noopener noreferrer" class="btn btn-visit">Visit</a>` : ''}
