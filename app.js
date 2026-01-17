@@ -1,6 +1,23 @@
 // Projects data - add your projects here
 const projects = [
     {
+        title: "trackk.me",
+        description: "TBA",
+        url: "https://trackk.me",
+        status: "under-construction"
+    },
+    {
+        title: "streak.at",
+        description: "TBA",
+        url: "https://streak.at",
+        status: "under-construction"
+    },
+    {
+        title: "Tech QNA Battleground",
+        description: "TBA",
+        status: "under-construction"
+    },
+    {
         title: "TheVirtualSF.com",
         description: "TBA",
         url: "https://TheVirtualSF.com",
