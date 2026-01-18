@@ -7,6 +7,12 @@ const projects = [
         status: "under-construction"
     },
     {
+        title: "it-iz.me",
+        description: "TBA",
+        url: "https://it-iz.me",
+        status: "under-construction"
+    },
+    {
         title: "streak.at",
         description: "TBA",
         url: "https://streak.at",
