@@ -42,7 +42,7 @@ const projects = [
         url:"https://memes.fit"
     },
     {
-        title: "oneDB",
+        title: "oneDB.net",
         description: "one database for everything you need.",
         url: "https://onedb.net",
         repo: "https://github.com/example/onddb", 
@@ -50,7 +50,7 @@ const projects = [
        
     },
     {
-        title: "Games",
+        title: "games.void.ac",
         description: "games and fun projects.",
         url: "https://games.void.ac",
         repo: "https://github.com/2xBuild/games", 
