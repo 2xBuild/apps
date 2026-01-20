@@ -1,5 +1,11 @@
 // Projects data - add your projects here
 const projects = [
+     {
+        title: "drawi.ai",
+        description: "TBA",
+        url: "https://drawi.ai",
+        status: "under-construction"
+    },
     {
         title: "trackk.me",
         description: "TBA",
