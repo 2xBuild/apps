@@ -1,5 +1,23 @@
 // Projects data - add your projects here
 const projects = [
+    {
+        title:"tree.je",
+        description:"TBA",
+        url:"https://tree.je",
+        status: "under-construction"
+    },
+     {
+        title:"lnk.ad",
+        description:"TBA",
+        url:"https://lnk.ad",
+        status: "under-construction"
+    },
+     {
+        title:"TPOT.cc",
+        description:"TBA",
+        url:"https://TPOT.cc",
+        status: "under-construction"
+    },
      {
         title: "drawi.ai",
         description: "TBA",
