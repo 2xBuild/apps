@@ -14,9 +14,8 @@ const projects = [
     },
      {
         title:"TPOT.cc",
-        description:"TBA",
+        description:"tech part of twitter at one place. events, highlights and e-lafdas listed.",
         url:"https://TPOT.cc",
-        status: "under-construction"
     },
      {
         title: "drawi.ai",
